@@ -1,0 +1,7 @@
+__pycache__
+
+.env
+
+db_data
+
+.mypy_cache
